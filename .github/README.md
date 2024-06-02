@@ -1,22 +1,21 @@
 <h2 align="center">
-    ──「 ᴀʟɪɴᴀ ダ ᴍᴜsɪᴄ 」──
+    ──「 ᴋɪᴤʜᴀɴ ダ ᴍᴜᴤɪᴄ 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/9dbc343a45e8a349ab3bd.jpg">
+  <img src="https://te.legra.ph/file/007fe0153bc8e8910107e.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/Payal8800/EraMusicBot/stargazers"><img src="https://img.shields.io/github/stars/Payal8800/AlinaMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Payal8800/EraMusicBot/stargazers"><img src="https://img.shields.io/github/stars/Payal8800/kishanMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/Payal8800/AlinaMusicBot/network/members"> <img src="https://img.shields.io/github/forks/Payal8800/AlinaMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Payal8800/AlinaMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Payal8800/kishanMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/Payal8800/AlinaMusicBot/commits/Payal8800"> <img src="https://img.shields.io/github/last-commit/Payal8800/AlinaMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Payal8800/kishanMusicBot/commits/Payal8800"> <img src="https://img.shields.io/github/last-commit/Payal8800/kishanMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <https://te.legra.ph/file/81fb6a1f486091cc8c888.jpg">
-</p>
+  <[https://te.legra.ph/file/007fe0153bc8e8910107e.jpg]
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
@@ -28,7 +27,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Payal8800/AlinaMusicBot/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Payal8800/kishanMusicBot/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
